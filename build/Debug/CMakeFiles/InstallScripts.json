@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/mixkrip/repositories/freertos-module/build/Debug/cmake_install.cmake",
+		"/home/mixkrip/repositories/freertos-module/build/Debug/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

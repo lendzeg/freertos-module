@@ -1,0 +1,5 @@
+{
+  "board": "NUCLEO-F401RE",
+  "device": "STM32F401RET6",
+  "toolchain": "GCC"
+}

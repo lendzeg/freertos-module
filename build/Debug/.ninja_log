@@ -1,0 +1,22 @@
+# ninja log v7
+7	49	1770433554385442135	CMakeFiles/FreeRTOS-module.dir/startup_stm32f401xe.s.obj	3e1558ee49e9a679
+4	298	1770433554383442113	CMakeFiles/FreeRTOS-module.dir/Core/Src/sysmem.c.obj	b63ed4159f323699
+5	321	1770433554383442113	CMakeFiles/FreeRTOS-module.dir/Core/Src/syscalls.c.obj	3ac68994aff0d2f8
+4	350	1770433554382442102	CMakeFiles/FreeRTOS-module.dir/Core/Src/stm32f4xx_hal_msp.c.obj	1e9ff6078e6dcdf2
+17	419	1770433554395442247	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj	ff019285fa0a71b8
+2	489	1770433554381442091	CMakeFiles/FreeRTOS-module.dir/Core/Src/main.c.obj	2b0af3782f173bc
+12	560	1770433554390442191	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj	d0a1d065383dade7
+3	603	1770433554381442091	CMakeFiles/FreeRTOS-module.dir/Core/Src/stm32f4xx_it.c.obj	e0e6a7d94fd7525e
+298	608	1770433554676445380	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj	c8c34f03500ecd62
+49	626	1770433554427442604	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj	acc8ac0e74fb3334
+20	682	1770433554398442280	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj	af5e6c7e9e5c402
+13	696	1770433554391442202	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj	6e76b61b77242aef
+419	878	1770433554797446729	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj	5534b4a3ad5f67da
+350	882	1770433554728445959	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj	3fb834532e9f54c1
+560	894	1770433554938448300	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj	7e7e0bf3f614b388
+321	952	1770433554699445636	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj	1fdfefc709b610c6
+603	982	1770433554981448780	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj	6472b3e2ba57cdf7
+489	1011	1770433554867447509	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj	15cf70187d1977c9
+608	1025	1770433554986448836	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj	a8b9c8dbebc1482a
+626	1033	1770433555004449036	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj	a1cd20cb1fd9f6f0
+1033	1118	1770433555411453573	FreeRTOS-module.elf	dc40cbabb239fd81
